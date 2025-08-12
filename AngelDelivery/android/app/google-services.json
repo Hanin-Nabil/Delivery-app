@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "826157456247",
+    "project_id": "ecommercapp-ccd91",
+    "storage_bucket": "ecommercapp-ccd91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826157456247:android:3f85cc9bbfed3967c19f72",
+        "android_client_info": {
+          "package_name": "com.example.ecommercecourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826157456247-rmccns5cn37bo01fkqmu8p87h1rnrqj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommercecourse",
+            "certificate_hash": "b6df35bc4e35dc2981cd050fe0e20d270c4c1c79"
+          }
+        },
+        {
+          "client_id": "826157456247-rlgc1ckem8bfkl5jr58u3dbajnfsckd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF83Uo_lhS8hKB9CCB3e8PZlAuVq9C_00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826157456247-rlgc1ckem8bfkl5jr58u3dbajnfsckd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
